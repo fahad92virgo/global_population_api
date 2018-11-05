@@ -2,10 +2,10 @@
 This is an API built with django rest framework utilizing the 2015 Population Density data at 15 minutes resolution from Gridded Population of the World (GPW), v4 dataset from NASA’s Socioeconomic Data and Applications Center (sedac)
 
 ## Requirements
-Django==2.0.3
-djangorestframework==3.9.0
-numpy==1.15.4
-pytz==2018.7
+- Django==2.0.3
+- djangorestframework==3.9.0
+- numpy==1.15.4
+- pytz==2018.7
 
 ## Parameters
 latutude: numeric value between -90 and 90
