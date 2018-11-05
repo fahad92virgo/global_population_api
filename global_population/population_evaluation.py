@@ -36,7 +36,7 @@ def convert_density_to_population(np_pop_density):
 def coord_to_rc(latitude, longitude):
 
     # latitude should be between -90 and 90
-    row_idx = np.round(8 * latitude + 720)
+    row_idx = np.round(-8 * latitude + 720)
 
     # longitude should be between -180 and 180
     col_idx = np.round(4 * longitude + 720)
