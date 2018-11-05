@@ -49,4 +49,4 @@ Vary: Accept
 }
 ```
 
-**Note: For details of how the population for a set of coordinates and radius is evaluation, please go through the population_calculation_methodology.pdf file**
+**Note: For details of how the population for a set of coordinates and radius is evaluation, please go through the [population_calculation_methodology.pdf](population_calculation_methodology.pdf) file**
