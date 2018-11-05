@@ -13,7 +13,7 @@ longitude: numeric value between -180 and 180
 radius: numeric value greater than or equal to 0
 
 ## Example: query
-- Lahore, Pakistan: Coordinates (31.5204° N, 74.3587° E) and radius 42.10 km
+**Lahore, Pakistan: Coordinates (31.5204° N, 74.3587° E) and radius 42.10 km**
 
 **query:** http://127.0.0.1:8000/api/v1/get_population/?latitude=31.5204&longitude=74.3587&radius=42.10
 
@@ -31,7 +31,7 @@ Vary: Accept
     "population": 10166154
 }
 ```
-- Leiden, Netherlands: Coordinates (52.1601° N, 4.4970° E) and radius 4.82 km
+**Leiden, Netherlands: Coordinates (52.1601° N, 4.4970° E) and radius 4.82 km**
 
 **query:** http://127.0.0.1:8000/api/v1/get_population/?latitude=52.1601&longitude=4.4970&radius=4.82
 
